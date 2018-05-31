@@ -1,2 +1,5 @@
 # StudyNotes
-All in or nothing
+
+记录一下我的学习过程~
+
+就酱。
